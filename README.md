@@ -1,6 +1,8 @@
-diagrams/mabuhightrack-activity.md
-# MabuHighTrack – Activity Diagram
+# MabuHighTrack – Diagrams
 
+## Use Case / Activity (Mermaid)
+
+```mermaid
 flowchart LR
   %% MabuHighTrack – Use Case Diagram (Mermaid approximation)
 
